@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeIgniter Snippets",
+		"Color Highlighter",
+		"CSS Snippets",
+		"DocBlockr",
+		"Docker Based Build Systems",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"JavaScript Completions",
+		"JSLint",
+		"Materialize",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}

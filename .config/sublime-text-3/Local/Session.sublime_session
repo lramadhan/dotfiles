@@ -1,0 +1,552 @@
+{
+	"folder_history":
+	[
+		"/srv/http/testing",
+		"/srv/http/tiktaktu",
+		"/srv/http/tictac",
+		"/home/kowalski/Documents/lab/programming/2048-game",
+		"/srv/http/web",
+		"/srv/http/sibengal",
+		"/srv/http/webprog"
+	],
+	"last_version": 3143,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1025.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"label",
+						"label\tTag"
+					],
+					[
+						"select",
+						"select\tTag"
+					],
+					[
+						"input",
+						"input"
+					],
+					[
+						"form",
+						"form\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"material",
+						"Activate Materialize Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 657.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/srv/http/testing/style.css",
+				"/srv/http/tictac/index.html",
+				"/srv/http/testing/script.js",
+				"/srv/http/tictactoe.php",
+				"/home/kowalski/Downloads/Program/Microsoft Office 2007 Fully Activated/Product Key.txt",
+				"/home/kowalski/Downloads/CorelX4",
+				"/home/kowalski/@",
+				"/srv/http/sibengal/.htaccess",
+				"/srv/http/sibengal/application/views/welcome_message.php",
+				"/srv/http/web/admin/proses_edit_kategori.php",
+				"/srv/http/web/admin/proses_tambah_kategori.php",
+				"/srv/http/web/admin/proses_tambah_artikel.php",
+				"/srv/http/web/admin/edit_kategori.php",
+				"/srv/http/web/admin/beranda.php",
+				"/home/kowalski/.cache/.fr-hk0cCQ/SOAL KELAS XI/SOAL UAS GAMTEK XI MT/keterangan soal.txt",
+				"/srv/http/SIMS/loading/loading.php",
+				"/srv/http/web/index.php",
+				"/srv/http/web/koneksi.php",
+				"/srv/http/web/admin/hapus_kategori.php",
+				"/srv/http/web/admin/tambah_kategori.php",
+				"/srv/http/web/logout.php",
+				"/srv/http/web/admin/proses_edit_artikel.php",
+				"/srv/http/web/admin/edit_artikel.php",
+				"/srv/http/web/admin/hapus_artikel.php",
+				"/srv/http/web/admin/laman.php",
+				"/srv/http/web/proses-login.php",
+				"/srv/http/web/admin/tambah_artikel.php",
+				"/srv/http/webprog/admin/index.php",
+				"/srv/http/webprog/index.php",
+				"/srv/http/info.php"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"emptySquares",
+					"squares",
+					"block",
+					"kamu menang",
+					"gameWon",
+					"cyan",
+					"gameWin",
+					"}",
+					"winCheck",
+					"sqr9",
+					"sqr8",
+					"sqr7",
+					"sqr6",
+					"sqr5",
+					"sqr4",
+					"sqr3",
+					"sqr2",
+					"sqr1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"emptySquare",
+					"gameWon",
+					"kotak9",
+					"kotak8",
+					"kotak7",
+					"kotak6",
+					"kotak5",
+					"kotak4",
+					"kotak3",
+					"kotak2",
+					"kotak1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 234.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"label",
+						"label\tTag"
+					],
+					[
+						"select",
+						"select\tTag"
+					],
+					[
+						"input",
+						"input"
+					],
+					[
+						"form",
+						"form\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"material",
+						"Activate Materialize Theme"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 657.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/srv/http/testing"
+			],
+			"file_history":
+			[
+				"/srv/http/testing/fibonacci.php",
+				"/srv/http/tiktaktu/readme.md",
+				"/srv/http/tiktaktu/script.js",
+				"/home/kowalski/Documents/Tugas/link jurnal",
+				"/home/kowalski/mirrorslist",
+				"/srv/http/tiktaktu/style.css",
+				"/srv/http/tiktaktu/index.html",
+				"/srv/http/tictac/script.js",
+				"/srv/http/tictac/style.css",
+				"/srv/http/tictac/index.php",
+				"/srv/http/testing/style.css",
+				"/srv/http/testing/script.js",
+				"/srv/http/tictac/index.html",
+				"/srv/http/tictactoe.php",
+				"/home/kowalski/Downloads/Program/Microsoft Office 2007 Fully Activated/Product Key.txt",
+				"/home/kowalski/Downloads/CorelX4",
+				"/home/kowalski/@",
+				"/srv/http/sibengal/.htaccess",
+				"/srv/http/sibengal/application/views/welcome_message.php",
+				"/srv/http/web/admin/proses_edit_kategori.php",
+				"/srv/http/web/admin/proses_tambah_kategori.php",
+				"/srv/http/web/admin/proses_tambah_artikel.php",
+				"/srv/http/web/admin/edit_kategori.php",
+				"/srv/http/web/admin/beranda.php",
+				"/home/kowalski/.cache/.fr-hk0cCQ/SOAL KELAS XI/SOAL UAS GAMTEK XI MT/keterangan soal.txt",
+				"/srv/http/SIMS/loading/loading.php",
+				"/srv/http/web/index.php",
+				"/srv/http/web/koneksi.php",
+				"/srv/http/web/admin/hapus_kategori.php",
+				"/srv/http/web/admin/tambah_kategori.php",
+				"/srv/http/web/logout.php",
+				"/srv/http/web/admin/proses_edit_artikel.php",
+				"/srv/http/web/admin/edit_artikel.php",
+				"/srv/http/web/admin/hapus_artikel.php",
+				"/srv/http/web/admin/laman.php",
+				"/srv/http/web/proses-login.php",
+				"/srv/http/web/admin/tambah_artikel.php",
+				"/srv/http/webprog/admin/index.php",
+				"/srv/http/webprog/index.php",
+				"/srv/http/info.php"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"startGame",
+					"selectSYm",
+					"emptySquares",
+					"squares",
+					"block",
+					"kamu menang",
+					"gameWon",
+					"cyan",
+					"gameWin",
+					"}",
+					"winCheck",
+					"sqr9",
+					"sqr8",
+					"sqr7",
+					"sqr6",
+					"sqr5",
+					"sqr4",
+					"sqr3",
+					"sqr2",
+					"sqr1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"emptySquare",
+					"gameWon",
+					"kotak9",
+					"kotak8",
+					"kotak7",
+					"kotak6",
+					"kotak5",
+					"kotak4",
+					"kotak3",
+					"kotak2",
+					"kotak1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/srv/http/testing"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,960,28,1920,1006,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 12,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
